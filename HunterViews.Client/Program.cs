@@ -26,7 +26,7 @@ namespace HunterViews.Client
                 dateStart = new DateTime(2010, 1, 31),
                 dateEnd = new DateTime(2016, 2, 22),
                 ecole = "ESPRIT",
-                user = null
+              
             };
 
             Certification certification = new Certification()
@@ -35,7 +35,7 @@ namespace HunterViews.Client
                 dateEnd = new DateTime(2011, 2, 22),
                 centre = "LPI MAGHREB",
                 title = "LPIC 1",
-                user = null
+              
             };
 
             Notification notification = new Notification()
@@ -44,7 +44,7 @@ namespace HunterViews.Client
                 seen = false,
                 type = TypeNotification.User,
                 description = "Bienvenu parmis nous !",
-                user = null,
+               
 
             };
 
@@ -52,7 +52,7 @@ namespace HunterViews.Client
             {
                 name = "C++",
                 category = Category.Desktop,
-                user = null
+             
             };
 
             List<Formation> listFormation = new List<Formation>();
