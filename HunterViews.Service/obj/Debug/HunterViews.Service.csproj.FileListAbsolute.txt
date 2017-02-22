@@ -1,0 +1,11 @@
+C:\Users\Ben Aich Safwene\Documents\Visual Studio 2015\Projects\Essai 1\PI\HunterViews\HunterViews.Service\bin\Debug\HunterViews.Service.dll
+C:\Users\Ben Aich Safwene\Documents\Visual Studio 2015\Projects\Essai 1\PI\HunterViews\HunterViews.Service\bin\Debug\HunterViews.Service.pdb
+C:\Users\Ben Aich Safwene\Documents\Visual Studio 2015\Projects\Essai 1\PI\HunterViews\HunterViews.Service\bin\Debug\HunterViews.Data.dll
+C:\Users\Ben Aich Safwene\Documents\Visual Studio 2015\Projects\Essai 1\PI\HunterViews\HunterViews.Service\bin\Debug\HunterViews.Domain.dll
+C:\Users\Ben Aich Safwene\Documents\Visual Studio 2015\Projects\Essai 1\PI\HunterViews\HunterViews.Service\bin\Debug\EntityFramework.dll
+C:\Users\Ben Aich Safwene\Documents\Visual Studio 2015\Projects\Essai 1\PI\HunterViews\HunterViews.Service\bin\Debug\HunterViews.Data.pdb
+C:\Users\Ben Aich Safwene\Documents\Visual Studio 2015\Projects\Essai 1\PI\HunterViews\HunterViews.Service\bin\Debug\HunterViews.Domain.pdb
+C:\Users\Ben Aich Safwene\Documents\Visual Studio 2015\Projects\Essai 1\PI\HunterViews\HunterViews.Service\bin\Debug\EntityFramework.xml
+C:\Users\Ben Aich Safwene\Documents\Visual Studio 2015\Projects\Essai 1\PI\HunterViews\HunterViews.Service\obj\Debug\HunterViews.Service.csprojResolveAssemblyReference.cache
+C:\Users\Ben Aich Safwene\Documents\Visual Studio 2015\Projects\Essai 1\PI\HunterViews\HunterViews.Service\obj\Debug\HunterViews.Service.dll
+C:\Users\Ben Aich Safwene\Documents\Visual Studio 2015\Projects\Essai 1\PI\HunterViews\HunterViews.Service\obj\Debug\HunterViews.Service.pdb
