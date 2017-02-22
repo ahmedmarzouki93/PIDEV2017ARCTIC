@@ -13,7 +13,12 @@ namespace HunterViews.Data.Configurations
     {
         public PostConfiguration()
         {
-            // Configuration here !!
+            //One To Many
+            HasOptional(p => p.offer)  
+                .WithMany(c => c.posts)
+                .WillCascadeOnDelete(false);
+
+
         }
 
 

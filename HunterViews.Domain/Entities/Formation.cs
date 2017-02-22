@@ -28,7 +28,7 @@ namespace HunterViews.Domain.Entities
         [Display(Name = "Date Start")]
         public DateTime dateEnd { get; set; }
 
-        virtual public User user { get; set; }
+        virtual public ICollection<User> users { get; set; }
 
     }
 }

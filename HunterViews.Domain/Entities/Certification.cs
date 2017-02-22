@@ -28,8 +28,8 @@ namespace HunterViews.Domain.Entities
         [DataType(DataType.Date)]
         [Display(Name = "End Date :")]
         public DateTime dateEnd { get; set; }
-
-        virtual public User user { get; set; }
+        
+        virtual public ICollection<User> users { get; set; }
 
 
     }

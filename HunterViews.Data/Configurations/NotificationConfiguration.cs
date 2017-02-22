@@ -13,7 +13,15 @@ namespace HunterViews.Data.Configurations
     {
         public NotificationConfiguration()
         {
-            // Configuration Here !!
+            HasMany(p => p.users)
+                .WithMany(v => v.notifications)
+                .Map(m =>
+                {
+                    m.ToTable("User_Notification");
+                    //Table d'association
+                    m.MapLeftKey("user");
+                    m.MapRightKey("notification");
+                });
 
         }
 

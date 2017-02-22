@@ -12,7 +12,9 @@ namespace HunterViews.Data.Configurations
     {
         public ReclamationConfiguration()
         {
-            // Configuration here !!
+
+
+                        
         }
     }
 }

@@ -12,7 +12,19 @@ namespace HunterViews.Data.Configurations
     {
         public CertificationConfiguration()
         {
-            //Configuration here !!
+            ToTable("Certification");
+            Property(c => c.title).HasMaxLength(50).IsRequired();
+
+
+            HasMany(p => p.users)
+                  .WithMany(v => v.certifications)
+                  .Map(m =>
+                  {
+                      m.ToTable("User_Certification");
+                    //Table d'association
+                    m.MapLeftKey("user");
+                      m.MapRightKey("certification");
+                  });
         }
     }
 }
