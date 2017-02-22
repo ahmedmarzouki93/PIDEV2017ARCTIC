@@ -20,6 +20,7 @@ namespace HunterViews.Client
             //Un Jobseeker posséde des certifs, des formations et des skills et quelques notifications et aucun posts
 
 
+            //tes
             Formation formation = new Formation()
             {
                 dateStart = new DateTime(2010, 1, 31),
