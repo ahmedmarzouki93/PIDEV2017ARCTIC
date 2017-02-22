@@ -49,6 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Configurations\AddressConfiguration.cs" />
     <Compile Include="Configurations\CertificationConfiguration.cs" />
     <Compile Include="Configurations\EvaluationConfiguration.cs" />
     <Compile Include="Configurations\FormationConfiguration.cs" />

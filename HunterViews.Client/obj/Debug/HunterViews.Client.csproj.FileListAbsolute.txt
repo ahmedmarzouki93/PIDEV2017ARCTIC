@@ -20,3 +20,16 @@ C:\Users\ahmed\PI-DEV-4ARCTIC1-SPRINT.NET\HunterViews.Client\obj\Debug\HunterVie
 C:\Users\Ben Aich Safwene\Documents\Visual Studio 2015\Projects\Essai 1\PI\PI-DEV-4ARCTIC1-SPRINT.NET\HunterViews.Client\bin\Debug\HunterViews.Client.exe.config
 C:\Users\Ben Aich Safwene\Documents\Visual Studio 2015\Projects\Essai 1\PI\PI-DEV-4ARCTIC1-SPRINT.NET\HunterViews.Client\obj\Debug\HunterViews.Client.exe
 C:\Users\Ben Aich Safwene\Documents\Visual Studio 2015\Projects\Essai 1\PI\PI-DEV-4ARCTIC1-SPRINT.NET\HunterViews.Client\obj\Debug\HunterViews.Client.pdb
+C:\Users\Ben Aich Safwene\Documents\Visual Studio 2015\Projects\Essai 1\PI\PI-DEV-4ARCTIC1-SPRINT.NET\HunterViews.Client\obj\Debug\HunterViews.Client.csprojResolveAssemblyReference.cache
+C:\Users\Ben Aich Safwene\Documents\Visual Studio 2015\Projects\Essai 1\PI\PI-DEV-4ARCTIC1-SPRINT.NET\HunterViews.Client\bin\Debug\HunterViews.Client.exe
+C:\Users\Ben Aich Safwene\Documents\Visual Studio 2015\Projects\Essai 1\PI\PI-DEV-4ARCTIC1-SPRINT.NET\HunterViews.Client\bin\Debug\HunterViews.Client.pdb
+C:\Users\Ben Aich Safwene\Documents\Visual Studio 2015\Projects\Essai 1\PI\PI-DEV-4ARCTIC1-SPRINT.NET\HunterViews.Client\bin\Debug\EntityFramework.dll
+C:\Users\Ben Aich Safwene\Documents\Visual Studio 2015\Projects\Essai 1\PI\PI-DEV-4ARCTIC1-SPRINT.NET\HunterViews.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ben Aich Safwene\Documents\Visual Studio 2015\Projects\Essai 1\PI\PI-DEV-4ARCTIC1-SPRINT.NET\HunterViews.Client\bin\Debug\HunterViews.Data.dll
+C:\Users\Ben Aich Safwene\Documents\Visual Studio 2015\Projects\Essai 1\PI\PI-DEV-4ARCTIC1-SPRINT.NET\HunterViews.Client\bin\Debug\HunterViews.Domain.dll
+C:\Users\Ben Aich Safwene\Documents\Visual Studio 2015\Projects\Essai 1\PI\PI-DEV-4ARCTIC1-SPRINT.NET\HunterViews.Client\bin\Debug\HunterViews.Service.dll
+C:\Users\Ben Aich Safwene\Documents\Visual Studio 2015\Projects\Essai 1\PI\PI-DEV-4ARCTIC1-SPRINT.NET\HunterViews.Client\bin\Debug\HunterViews.Data.pdb
+C:\Users\Ben Aich Safwene\Documents\Visual Studio 2015\Projects\Essai 1\PI\PI-DEV-4ARCTIC1-SPRINT.NET\HunterViews.Client\bin\Debug\HunterViews.Domain.pdb
+C:\Users\Ben Aich Safwene\Documents\Visual Studio 2015\Projects\Essai 1\PI\PI-DEV-4ARCTIC1-SPRINT.NET\HunterViews.Client\bin\Debug\HunterViews.Service.pdb
+C:\Users\Ben Aich Safwene\Documents\Visual Studio 2015\Projects\Essai 1\PI\PI-DEV-4ARCTIC1-SPRINT.NET\HunterViews.Client\bin\Debug\EntityFramework.xml
+C:\Users\Ben Aich Safwene\Documents\Visual Studio 2015\Projects\Essai 1\PI\PI-DEV-4ARCTIC1-SPRINT.NET\HunterViews.Client\bin\Debug\EntityFramework.SqlServer.xml
