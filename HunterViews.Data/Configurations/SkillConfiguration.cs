@@ -13,8 +13,20 @@ namespace HunterViews.Data.Configurations
     {
         public SkillConfiguration()
         {
-            // Configuration Here !!
-        }
+            
+                 HasMany(p => p.users)
+                .WithMany(v => v.skills)
+                .Map(m =>
+                {
+                m.ToTable("User_Skill");
+                //Table d'association
+                m.MapLeftKey("user");
+                m.MapRightKey("skill");
+            });
+
+
+
+            }
 
 
     }

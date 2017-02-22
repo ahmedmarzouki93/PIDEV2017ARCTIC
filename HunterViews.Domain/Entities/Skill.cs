@@ -9,8 +9,8 @@ namespace HunterViews.Domain.Entities
     public class Skill
     {
 
-        [Key]
-        public int ?id { get; set; } //Nullable
+       // [Key]
+        public int? id { get; set; } //Nullable
         
         [Required]
         [Display(Name ="Category :")]
@@ -19,7 +19,7 @@ namespace HunterViews.Domain.Entities
         [Display(Name ="Name :")]
         public string name { get; set; }
 
-        virtual public User user { get; set; }
+        virtual public ICollection<User> users { get; set; }
 
 
     }

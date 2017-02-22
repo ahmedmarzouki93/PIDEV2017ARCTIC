@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyFinance.Data.CustumConventions
+namespace HunterViews.Data.CustumConventions
 {
     public class DateTime2Convention : Convention
     {

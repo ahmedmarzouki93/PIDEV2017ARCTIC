@@ -8,11 +8,20 @@ using HunterViews.Domain.Entities;
 
 namespace HunterViews.Data.Configurations
 {
-    public class FormationConfiguration : EntityTypeConfiguration<Notification>
+    public class FormationConfiguration : EntityTypeConfiguration<Formation>
     {
         public FormationConfiguration()
         {
-            //Configuration here !!
+            HasMany(p => p.users)
+                .WithMany(v => v.formations)
+                .Map(m =>
+                {
+                    m.ToTable("User_Formation");
+                    //Table d'association
+                    m.MapLeftKey("user");
+                    m.MapRightKey("formation");
+                });
+
         }
 
 

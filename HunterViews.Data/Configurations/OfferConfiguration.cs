@@ -12,7 +12,12 @@ namespace HunterViews.Data.Configurations
     {
         public OfferConfiguration()
         {
-            //Configuration here !!
+
+            HasRequired(p => p.user)
+               .WithMany(a => a.offers)
+               .WillCascadeOnDelete(false);
+
+
         }
 
 

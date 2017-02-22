@@ -12,7 +12,30 @@ namespace HunterViews.Data.Configurations
     {
         public UserConfiguration()
         {
-            //Configuration here !!
+            Property(e => e.login).HasMaxLength(50).IsRequired();
+            Property(e => e.password).HasMaxLength(50).IsRequired();
+            Property(e => e.email).HasMaxLength(50).IsRequired();
+            Property(e => e.image).HasMaxLength(50).IsOptional();
+
+         
+
+            //Heritage
+            Map<JobSeeker>(c =>
+            {
+                c.Requires("Role").HasValue("Jobseeker");  
+            });
+            Map<HeadHunter>(c =>
+            {
+                c.Requires("Role").HasValue("HeadHunter");
+            });
+            Map<WebCoordinator>(c =>
+            {
+                c.Requires("Role").HasValue("WebCoordinator");
+            });
+
+
+
+
         }
 
 

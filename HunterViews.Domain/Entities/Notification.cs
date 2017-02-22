@@ -22,8 +22,8 @@ namespace HunterViews.Domain.Entities
         public bool seen { get; set; }
 
         public string description { get; set; }
-
-        virtual public User user { get; set; }
+        
+        virtual public ICollection<User> users { get; set; }
 
     }
 }

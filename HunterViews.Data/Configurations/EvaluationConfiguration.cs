@@ -13,7 +13,10 @@ namespace HunterViews.Data.Configurations
     {
         public EvaluationConfiguration()
         {
-            // Configuration here !
+            //One To Many
+            HasOptional(p => p.offer)   // 0,1..*   
+                .WithMany(c => c.evaluations)
+                .WillCascadeOnDelete(false);
         }
     }
 }
